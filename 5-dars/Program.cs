@@ -104,14 +104,14 @@
 //}
 
 
-double[][] mas = new double[4][];
-mas[0] = new double[14];
-mas[1] = new double[3];
-mas[2] = new double[2];
-mas[3] = new double[5];
+//double[][] mas = new double[4][];
+//mas[0] = new double[14];
+//mas[1] = new double[3];
+//mas[2] = new double[2];
+//mas[3] = new double[5];
 
-foreach(var mat in mas)
-{
-    Console.WriteLine(string.Join(" ", mat));
-    Console.WriteLine();
-}
+//foreach(var mat in mas)
+//{
+//    Console.WriteLine(string.Join(" ", mat));
+//    Console.WriteLine();
+//}

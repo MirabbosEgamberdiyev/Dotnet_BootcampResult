@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-dars", "3-dars\3-dars.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-dars", "4-dars\4-dars.csproj", "{8856CCCD-DA58-4D03-99FF-FD954147F413}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-dars", "5-dars\5-dars.csproj", "{12BC03D0-FF59-4C6F-8816-898BF01AEE97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-dars", "5-dars\5-dars.csproj", "{12BC03D0-FF59-4C6F-8816-898BF01AEE97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-dars", "6-dars\6-dars.csproj", "{13478E58-A204-4FD1-AAC6-3625F9CA05A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{12BC03D0-FF59-4C6F-8816-898BF01AEE97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12BC03D0-FF59-4C6F-8816-898BF01AEE97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12BC03D0-FF59-4C6F-8816-898BF01AEE97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13478E58-A204-4FD1-AAC6-3625F9CA05A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13478E58-A204-4FD1-AAC6-3625F9CA05A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13478E58-A204-4FD1-AAC6-3625F9CA05A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13478E58-A204-4FD1-AAC6-3625F9CA05A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
