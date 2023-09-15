@@ -13,9 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-dars", "5-dars\5-dars.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6-dars", "6-dars\6-dars.csproj", "{13478E58-A204-4FD1-AAC6-3625F9CA05A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-dars", "7-dars\7-dars.csproj", "{7C566CE8-5B23-4868-AF92-BD7AAF6F8FEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7-dars", "7-dars\7-dars.csproj", "{7C566CE8-5B23-4868-AF92-BD7AAF6F8FEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-dars kirish", "8-dars kirish\8-dars kirish.csproj", "{F453E889-2FC4-490E-B56F-63CBE9A28F85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-dars", "8-dars kirish\8-dars.csproj", "{F453E889-2FC4-490E-B56F-63CBE9A28F85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

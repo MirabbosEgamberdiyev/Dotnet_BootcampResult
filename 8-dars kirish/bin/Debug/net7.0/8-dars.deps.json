@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "8-dars/1.0.0": {
+        "dependencies": {
+          "7-dars": "1.0.0"
+        },
+        "runtime": {
+          "8-dars.dll": {}
+        }
+      },
+      "7-dars/1.0.0": {
+        "runtime": {
+          "7-dars.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "8-dars/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "7-dars/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

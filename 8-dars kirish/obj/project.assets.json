@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "7-dars/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/7-dars.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/7-dars.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "7-dars/1.0.0": {
+      "type": "project",
+      "path": "../7-dars/7-dars.csproj",
+      "msbuildProject": "../7-dars/7-dars.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "7-dars >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Nodirbek\\.nuget\\packages\\": {},
@@ -14,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nodirbek\\source\\repos\\Dotnet_Bootcamp\\8-dars kirish\\8-dars kirish.csproj",
-      "projectName": "8-dars kirish",
-      "projectPath": "C:\\Users\\Nodirbek\\source\\repos\\Dotnet_Bootcamp\\8-dars kirish\\8-dars kirish.csproj",
+      "projectUniqueName": "C:\\Users\\Nodirbek\\source\\repos\\Dotnet_Bootcamp\\8-dars kirish\\8-dars.csproj",
+      "projectName": "8-dars",
+      "projectPath": "C:\\Users\\Nodirbek\\source\\repos\\Dotnet_Bootcamp\\8-dars kirish\\8-dars.csproj",
       "packagesPath": "C:\\Users\\Nodirbek\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Nodirbek\\source\\repos\\Dotnet_Bootcamp\\8-dars kirish\\obj\\",
       "projectStyle": "PackageReference",
@@ -39,7 +58,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Nodirbek\\source\\repos\\Dotnet_Bootcamp\\7-dars\\7-dars.csproj": {
+              "projectPath": "C:\\Users\\Nodirbek\\source\\repos\\Dotnet_Bootcamp\\7-dars\\7-dars.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -18,6 +18,8 @@
 //    a = a + 1;
 //}
 
+using _7_dars;
+
 void Sum(int number1, int number2, out int res)
 {
     res = number1 + number2;
@@ -116,3 +118,6 @@ while (true)
     { break; }
 }
 Console.WriteLine(count);
+
+Arifmetika arifmetika = new Arifmetika();
+arifmetika.Sum(1, 3, 4);
