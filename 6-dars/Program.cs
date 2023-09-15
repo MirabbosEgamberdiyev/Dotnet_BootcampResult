@@ -74,23 +74,23 @@
 //int count = sb.ToString().Split(N.ToString()).Length - 1;
 //Console.WriteLine(count);
 
-//double[] input = Console.ReadLine().Split()
-//  								  .Select(i => double.Parse(i))
-//                                    .ToArray();
-//double pul = input[0];
-//double foiz = input[1];
-//double oy = input[2];
-//double natija = pul + pul * (foiz / 100) * oy;
-//Console.WriteLine((int)natija);
+double[] input = Console.ReadLine().Split()
+                                    .Select(i => double.Parse(i))
+                                    .ToArray();
+double pul = input[0];
+double foiz = input[1];
+double oy = input[2];
+double natija = pul + pul * (foiz / 100) * oy;
+Console.WriteLine((int)natija);
 
 //https://robocontest.uz/tasks/0048
-int n = int.Parse(Console.ReadLine());
-int a = 1;
-for (int i = 1; i <= n; i++)
-{
-    for (int j = 1;  j <= i; j++)
-    {
-        Console.Write((a++) + " " );
-    }
-    Console.WriteLine();
-}
+//int n = int.Parse(Console.ReadLine());
+//int a = 1;
+//for (int i = 1; i <= n; i++)
+//{
+//    for (int j = 1;  j <= i; j++)
+//    {
+//        Console.Write((a++) + " " );
+//    }
+//    Console.WriteLine();
+//}

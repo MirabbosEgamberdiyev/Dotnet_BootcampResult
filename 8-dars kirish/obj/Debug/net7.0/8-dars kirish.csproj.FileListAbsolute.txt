@@ -1,0 +1,14 @@
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\8-dars kirish\bin\Debug\net7.0\8-dars kirish.exe
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\8-dars kirish\bin\Debug\net7.0\8-dars kirish.deps.json
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\8-dars kirish\bin\Debug\net7.0\8-dars kirish.runtimeconfig.json
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\8-dars kirish\bin\Debug\net7.0\8-dars kirish.dll
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\8-dars kirish\bin\Debug\net7.0\8-dars kirish.pdb
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\8-dars kirish\obj\Debug\net7.0\8-dars kirish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\8-dars kirish\obj\Debug\net7.0\8-dars kirish.AssemblyInfoInputs.cache
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\8-dars kirish\obj\Debug\net7.0\8-dars kirish.AssemblyInfo.cs
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\8-dars kirish\obj\Debug\net7.0\8-dars kirish.csproj.CoreCompileInputs.cache
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\8-dars kirish\obj\Debug\net7.0\8-dars kirish.dll
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\8-dars kirish\obj\Debug\net7.0\refint\8-dars kirish.dll
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\8-dars kirish\obj\Debug\net7.0\8-dars kirish.pdb
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\8-dars kirish\obj\Debug\net7.0\8-dars kirish.genruntimeconfig.cache
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\8-dars kirish\obj\Debug\net7.0\ref\8-dars kirish.dll
