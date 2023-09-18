@@ -4,7 +4,7 @@ public class Customer
 {
     public string FullName = string.Empty;
     public int AccountNumber = 0;
-    public double Balance = 0;
+    protected double Balance = 0;
 
     public Customer(string FullName, 
                     int AccountNumber, 
