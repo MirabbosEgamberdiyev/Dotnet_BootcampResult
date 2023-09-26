@@ -1,0 +1,4 @@
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\10-dars\obj\Release\net7.0\10-dars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\10-dars\obj\Release\net7.0\10-dars.AssemblyInfoInputs.cache
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\10-dars\obj\Release\net7.0\10-dars.AssemblyInfo.cs
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\10-dars\obj\Release\net7.0\10-dars.csproj.CoreCompileInputs.cache

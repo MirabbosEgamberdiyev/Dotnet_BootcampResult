@@ -1,0 +1,4 @@
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\3-dars\obj\Release\net7.0\3-dars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\3-dars\obj\Release\net7.0\3-dars.AssemblyInfoInputs.cache
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\3-dars\obj\Release\net7.0\3-dars.AssemblyInfo.cs
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\3-dars\obj\Release\net7.0\3-dars.csproj.CoreCompileInputs.cache

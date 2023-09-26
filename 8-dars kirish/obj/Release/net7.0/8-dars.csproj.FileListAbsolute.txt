@@ -1,0 +1,5 @@
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\8-dars kirish\obj\Release\net7.0\8-dars.csproj.AssemblyReference.cache
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\8-dars kirish\obj\Release\net7.0\8-dars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\8-dars kirish\obj\Release\net7.0\8-dars.AssemblyInfoInputs.cache
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\8-dars kirish\obj\Release\net7.0\8-dars.AssemblyInfo.cs
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\8-dars kirish\obj\Release\net7.0\8-dars.csproj.CoreCompileInputs.cache

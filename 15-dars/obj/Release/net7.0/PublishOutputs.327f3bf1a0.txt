@@ -1,0 +1,5 @@
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\15-dars\bin\Release\net7.0\publish\15-dars.exe
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\15-dars\bin\Release\net7.0\publish\15-dars.dll
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\15-dars\bin\Release\net7.0\publish\15-dars.deps.json
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\15-dars\bin\Release\net7.0\publish\15-dars.runtimeconfig.json
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\15-dars\bin\Release\net7.0\publish\15-dars.pdb
