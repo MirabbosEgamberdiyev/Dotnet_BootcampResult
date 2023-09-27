@@ -71,10 +71,12 @@ foreach (var file in directory.EnumerateFiles())
 Console.ReadKey(true);
 */
 
+
 using _15_dars;
 using _15_dars.Interfaces;
 using _15_dars.Models;
 using Newtonsoft.Json;
+using System.IO;
 
 class Student
 {
@@ -146,22 +148,52 @@ static class Program
         var jsonData = JsonConvert.DeserializeObject<List<Student>>(ReadFromJsonFile());
         */
 
-        BankList bankList = new BankList();
-        try
-        {
-            bankList.CreateBank(new Bank("Yangi bank", "Adress", "00000"));
-            bankList.CreateBank(new Bank("Yangi bank", "Adress", "00000"));
-        }
-        catch (BankException e)
-        {
-            Console.WriteLine(e.ErrorMessage);
-        }
-        catch (Exception ex)
-        {
-            Console.WriteLine(ex.Message);
-        }
-        Console.WriteLine($"Total banks count: {bankList.TotalCount}");
+        //BankList bankList = new BankList();
+        //try
+        //{
+        //    bankList.CreateBank(new Bank("Yangi bank", "Adress", "00000"));
+        //    bankList.CreateBank(new Bank("Yangi bank", "Adress", "00000"));
+        //}
+        //catch (BankException e)
+        //{
+        //    Console.WriteLine(e.ErrorMessage);
+        //}
+        //catch (Exception ex)
+        //{
+        //    Console.WriteLine(ex.Message);
+        //}
+        //Console.WriteLine($"Total banks count: {bankList.TotalCount}");
         //Console.Clear();
+
+        //using (StreamReader sr = new StreamReader("Students.txt"))
+        //{
+        //    while (sr.Peek() >= 0)
+        //    {
+        //        Console.WriteLine(sr.ReadLine());
+        //    }
+        //}
+
+        //StreamReader sr = new StreamReader("Students.txt");
+        //try
+        //{
+        //while (sr.Peek() >= 0)
+        //{
+        //    Console.WriteLine(sr.ReadLine());
+        //}
+        //sr.Close();
+        //}
+        //finally
+        //{
+        //    sr.Dispose();
+        //}
+
+
+        File.WriteAllText("Students.txt", "Salom");
+
+        //StreamWriter sw = new StreamWriter("Students.txt");
+        //sw.WriteLine("Some text");
+        //sw.Close();
+        //string[] lines = File.ReadAllLines("Students.txt");
     }
 
     static void SaveToFile(this List<Student> list)
