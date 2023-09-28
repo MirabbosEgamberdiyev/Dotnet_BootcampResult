@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "78nTH/o7H3JxSilNqM6ahOa2TMuxFxIrZoDflk7yUDSCyIVmRvpesC+z6SZUfGW4UawQ8gHkYh9aM1tUv6HKQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nodirbek\\source\\repos\\Dotnet_Bootcamp\\17-dars\\17-dars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nodirbek\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
