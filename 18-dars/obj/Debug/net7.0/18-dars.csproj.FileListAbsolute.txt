@@ -1,0 +1,14 @@
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\18-dars\bin\Debug\net7.0\18-dars.exe
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\18-dars\bin\Debug\net7.0\18-dars.deps.json
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\18-dars\bin\Debug\net7.0\18-dars.runtimeconfig.json
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\18-dars\bin\Debug\net7.0\18-dars.dll
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\18-dars\bin\Debug\net7.0\18-dars.pdb
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\18-dars\obj\Debug\net7.0\18-dars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\18-dars\obj\Debug\net7.0\18-dars.AssemblyInfoInputs.cache
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\18-dars\obj\Debug\net7.0\18-dars.AssemblyInfo.cs
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\18-dars\obj\Debug\net7.0\18-dars.csproj.CoreCompileInputs.cache
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\18-dars\obj\Debug\net7.0\18-dars.dll
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\18-dars\obj\Debug\net7.0\refint\18-dars.dll
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\18-dars\obj\Debug\net7.0\18-dars.pdb
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\18-dars\obj\Debug\net7.0\18-dars.genruntimeconfig.cache
+C:\Users\Nodirbek\source\repos\Dotnet_Bootcamp\18-dars\obj\Debug\net7.0\ref\18-dars.dll

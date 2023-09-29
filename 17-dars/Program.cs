@@ -1,4 +1,5 @@
-﻿/*
+﻿#region - Part1
+/*
 Thread thread = new Thread(SomeTask);
 thread.Name = "Custom Thread";
 thread.IsBackground = true;
@@ -44,8 +45,6 @@ async Task SomeAsync()
     Console.WriteLine("Completed");
 }
 */
-
-
 
 //using System;
 //using System.Collections.Generic;
@@ -258,6 +257,8 @@ async Task SomeAsync()
 //        }
 //    }
 //}
+
+/*
 Console.WriteLine("Program started");
 
 var res = Task.WhenAll(
@@ -296,3 +297,74 @@ async Task GetAsync3()
     HttpClient client = new HttpClient();
     var content = await client.GetStringAsync("https://iiv.uz/pages/qollanma-va-terminlar");
 }
+
+*/
+
+#endregion
+
+#region - Part2
+
+int n = int.Parse(Console.ReadLine());
+List<int> primes = new List<int>();
+
+Thread thread = null;
+int start = 1;
+int step = 100000;
+for (int i = step; i< n; i += step)
+{
+    thread = new Thread(() 
+        => primes.AddRange(PrimesOfRange(start, i)));
+    thread.Start();
+}
+
+label:
+if (thread.ThreadState == ThreadState.Running)
+    goto label;
+
+Console.WriteLine("Enter your command:");
+Console.WriteLine(primes.Count);
+
+static IEnumerable<int> PrimesOfRange(int start, int end)
+{
+    for (; start <= end; start++)
+    {
+        if (IsPrime(start))
+        {
+            yield return start;
+        }
+    }
+}
+
+static bool IsPrime(int number)
+{
+    for (int i = 2; i <= Math.Sqrt(number); i++)
+    {
+        if (number % i == 0)
+        {
+            return false;
+        }
+    }
+
+    return number > 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#endregion
+
