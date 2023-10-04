@@ -39,7 +39,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-dars. 2", "17-dars. 2\17
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18-dars", "18-dars\18-dars.csproj", "{5BE3F35A-63EE-4ADE-9FB1-7AA85F306AA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-dars", "19-dars\19-dars.csproj", "{CF0B3884-7052-4EDB-87E0-608E506FDC13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19-dars", "19-dars\19-dars.csproj", "{CF0B3884-7052-4EDB-87E0-608E506FDC13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-dars", "20-dars\20-dars.csproj", "{DAEC7969-C88F-4EDE-8596-053F2C8DD7E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{CF0B3884-7052-4EDB-87E0-608E506FDC13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF0B3884-7052-4EDB-87E0-608E506FDC13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF0B3884-7052-4EDB-87E0-608E506FDC13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAEC7969-C88F-4EDE-8596-053F2C8DD7E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAEC7969-C88F-4EDE-8596-053F2C8DD7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAEC7969-C88F-4EDE-8596-053F2C8DD7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAEC7969-C88F-4EDE-8596-053F2C8DD7E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
